@@ -16,6 +16,7 @@ body {
 header {
     height: 250px;
     background-color: rgba(0, 0, 0, 0.336);
+    margin-bottom: 10px;
 }
 
 header > h1 {
