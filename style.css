@@ -17,6 +17,7 @@ header {
     height: 250px;
     background-color: rgba(0, 0, 0, 0.336);
     margin-bottom: 10px;
+    display: block;
 }
 
 header > h1 {
@@ -26,6 +27,7 @@ header > h1 {
     padding-top: 65px;
     font-family: 'Vast Shadow', cursive;
     text-shadow: 2px 1px 3px rgba(0, 0, 0, 0.705);
+    display: block;
 }
 
 .container {
